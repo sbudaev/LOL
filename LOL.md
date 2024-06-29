@@ -204,7 +204,6 @@ rights under this License and remain in full compliance, shall not have their
 license terminated.
 
 ## 5. Exceptions
-------------
 
 If any part of this License is found to be in conflict with the law, that part
 shall be interpreted in its broadest meaning consistent with the law, and no
